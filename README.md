@@ -5,5 +5,5 @@ This is a gatsby project based on [gatsby-simplefolio](https://github.com/cobide
 
 ### TODO
 - [✓] Create the portfolio  
-  - [ ] Add dockerfile  
+- [ ] Add dockerfile  
 
